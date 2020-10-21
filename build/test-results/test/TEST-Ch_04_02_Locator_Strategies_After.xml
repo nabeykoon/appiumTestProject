@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ch_04_02_Locator_Strategies_After" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-21T19:53:24" hostname="DESKTOP-RJ88POF" time="30.935">
+  <properties/>
+  <testcase name="test" classname="Ch_04_02_Locator_Strategies_After" time="30.935"/>
+  <system-out><![CDATA[1
+]]></system-out>
+  <system-err><![CDATA[Oct 22, 2020 1:23:52 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

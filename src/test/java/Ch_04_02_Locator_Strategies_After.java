@@ -21,7 +21,7 @@ public class Ch_04_02_Locator_Strategies_After {
         caps.setCapability("platformName", "Android");
         caps.setCapability("platformVersion", "9");
         caps.setCapability("deviceName", "Android Emulator");
-       // caps.setCapability("automationName", "UiAutomator2");
+        caps.setCapability("automationName", "UiAutomator2");
         caps.setCapability("app", APP);
         driver = new AndroidDriver(new URL(APPIUM), caps);
         try { Thread.sleep(3000); } catch (Exception ign) {}
